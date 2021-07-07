@@ -20,7 +20,7 @@ export default class Template {
 				<div class="view">
 					<input class="toggle" type="checkbox" {{checked}}>
 					<label>{{title}}</label>
-					<button class="destroy"></button>
+					<button class="destroy">Delete</button>
 				</div>
 			</li>
 		`;
